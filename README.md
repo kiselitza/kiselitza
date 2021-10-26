@@ -11,7 +11,7 @@ My current focus is on:
 - 🌱 Growing Infobip's Dev Community.
 - 📝 Infobip Dev Content. Read our content via either [Medium](https://medium.com/infobipdev) or [Dev.to](https://dev.to/infobipdev) publications.
 - 🌎 Looking for best conferences to talk at.
-- 🧑‍🎓 Help educating IT newbies.
+- 🧑‍🎓 Helping educate IT newbies.
 
 
 I share passion for sports & adrenaline in general - martial arts in particular. Tech background, an extrovert kind that happens to love business as well. Blockchain enthusiast and an aspiring wannabe entrepreneur, hopefully an altruist one - the time will tell. 
