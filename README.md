@@ -9,7 +9,7 @@ My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 
 
 My current focus is on:
-- 🌱 Growing Infobip's Dev Community.
+- 🌱 Growing Infobip's Dev Community, join us at [Discord](https://discord.gg/4huBWgTmzk) server.
 - 📝 Infobip Dev Content. Read our content via either [Medium](https://medium.com/infobipdev) or [Dev.to](https://dev.to/infobipdev) publications.
 - 🌎 Looking for best conferences to talk at.
 - 🧑‍🎓 Helping educate IT newbies.
