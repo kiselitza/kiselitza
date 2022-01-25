@@ -2,7 +2,8 @@
 
 My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**. 
 - 💻 Developer Advocate @ [Infobip](www.infobip.com) and also in charge of its dev content
-- 🥋 1st DAN karate master, WKF National and Balkans 🏆, European and World Cup 🥉, alumni of [KK Champion](https://kkchampion.ba/) 🥊
+- 🥋 1st DAN Karate Master, WKF National and Balkans 🏆, European and World Cup 🥉, alumni of [KK Champion](https://kkchampion.ba/) 🥊
+- ⛰ Mountain Service Rescuer @ [GSS Ilidža](https://gss.ba/)
 - 👨‍🏫 Ex Teaching Assistant @ [ETF UNSA](https://www.etf.unsa.ba/)
 - 🎖️ Oracle Certified Associate, [Java SE](https://www.credly.com/badges/ca8754df-0e82-41f9-be36-3dfad6d3c26b)
 
