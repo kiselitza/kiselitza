@@ -11,13 +11,15 @@ My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 My current focus is on:
 - 🌱 Growing Infobip's Dev Community, join us at [Discord](https://discord.gg/4huBWgTmzk) server.
 - 📝 Infobip Dev Content. Read our content via either [Medium](https://medium.com/infobipdev) or [Dev.to](https://dev.to/infobipdev) publications.
-- 🌎 Looking for best conferences to talk at.
+- 🌎 Looking for best conferences to sponsor, exhibit at, talk at, etc.
 - 🧑‍🎓 Helping educate IT newbies.
 
 
 I share passion for sports & adrenaline in general - martial arts in particular. Tech background, an extrovert kind that happens to love business as well. Blockchain enthusiast and an aspiring wannabe entrepreneur, hopefully an altruist one - the time will tell. 
 
 During my IT career I was priviledged to have a chance and play with various programming languages, frameworks and tech stacks in general, as well as with various tooling. In a sense, I see all of it simply as a toolset, nothing less and nothing more - a bounded set of steps/commands/methods/apps/tools you utilize to solve a certain challenge. But enough of philosophical overviews for now.
+
+Moreover, I was honored with a chance to obtain an acting Technical Product Manager role on an internal infrastructural platform before moving to Develoepr Relations.
 
 In case you'd like to get to know more about myself check below:
 - 📫 Wanna reach me? Try via either [LinkedIn](https://www.linkedin.com/in/kiselica-aldin/) or [Twitter](https://twitter.com/kiselica_aldin) - the rest I either don't use at all, or use it in private purposes only.
