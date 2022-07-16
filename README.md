@@ -15,7 +15,7 @@ My current focus is on:
 - 🧑‍🎓 Helping educate IT newbies.
 
 
-I share passion for sports & adrenaline in general - martial arts in particular. My industry background is in tech where I have years of Sotfware Engineering and Developer Advocacy experience on a top level, with an interim role of an acting Tech PM on an internal infrastructural platform before moving to Develoepr Relations. 
+I share a passion for sports & adrenaline in general - martial arts in particular. My industry background is in tech where I have years of Software Engineering and Developer Advocacy experience on a top level, with an interim role as an acting Tech PM on an internal infrastructural platform before moving to Developer Relations.
 
 During my IT career I was priviledged to have a chance and play with various programming languages, frameworks and tech stacks in general, as well as with various tooling. In a sense, I see all of it simply as a toolset, nothing less and nothing more - a bounded set of steps/commands/methods/apps/tools you utilize to solve a certain challenge. But enough of philosophical overviews for now.
 
