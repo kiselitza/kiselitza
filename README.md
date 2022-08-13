@@ -1,18 +1,14 @@
 ### Hello stranger 👋
 
 My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**. 
-- 💻 Developer Advocate @ [Infobip](www.infobip.com) and also in charge of its dev content
+- 💻 A passionate product-focused techie, ex Software Engineer, DevRel guy
 - 🥋 1st DAN Karate Master, WKF National and Balkans 🏆, European and World Cup 🥉, alumni of [KK Champion](https://kkchampion.ba/) 🥊
 - ⛰ Mountain Service Rescuer @ [GSS Ilidža](https://gss.ba/)
 - 👨‍🏫 Ex Teaching Assistant @ [ETF UNSA](https://www.etf.unsa.ba/)
 - 🎖️ Oracle Certified Associate, [Java SE](https://www.credly.com/badges/ca8754df-0e82-41f9-be36-3dfad6d3c26b)
 
 <a href="https://app.daily.dev/kiselee"><img src="https://api.daily.dev/devcards/efbe905728aa40a7b4bb4b5e99c751e6.png?r=ztd" width="250" align="right" alt="Aldin Kiselica's Dev Card"/></a>
-My current focus is on:
-- 🌱 Growing Infobip's Dev Community, join us at [Discord](https://discord.gg/4huBWgTmzk) server.
-- 📝 Infobip Dev Content. Read our content via either [Medium](https://medium.com/infobipdev) or [Dev.to](https://dev.to/infobipdev) publications.
-- 🌎 Looking for best conferences to sponsor, exhibit at, talk at, etc.
-- 🧑‍🎓 Helping educate IT newbies.
+
 
 I share a passion for sports & adrenaline in general - martial arts in particular. My industry background is in tech where I have years of Software Engineering and Developer Advocacy experience on a top level, with an interim role as an acting Tech PM on an internal infrastructural platform before moving to Developer Relations.
 
