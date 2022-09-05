@@ -1,6 +1,7 @@
 ### Hello stranger 👋
 
-My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**. 
+My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
+- 🃏 Jack of all trades, master of some
 - 💻 A passionate product-focused techie, ex Software Engineer, DevRel guy
 - 🥋 1st DAN Karate Master, WKF National and Balkans 🏆, European and World Cup 🥉, alumni of [KK Champion](https://kkchampion.ba/) 🥊
 - ⛰ Mountain Service Rescuer @ [GSS Ilidža](https://gss.ba/)
