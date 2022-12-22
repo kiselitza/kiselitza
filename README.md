@@ -8,7 +8,7 @@ My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 - 👨‍🏫 Ex Teaching Assistant @ [ETF UNSA](https://www.etf.unsa.ba/)
 - 🎖️ Oracle Certified Associate, [Java SE](https://www.credly.com/badges/ca8754df-0e82-41f9-be36-3dfad6d3c26b)
 
-<a href="https://app.daily.dev/kiselee"><img src="https://api.daily.dev/devcards/efbe905728aa40a7b4bb4b5e99c751e6.png?r=oct" width="400" alt="Aldin Kiselica's Dev Card"/></a>
+<a href="https://app.daily.dev/kiselee"><img src="https://api.daily.dev/devcards/efbe905728aa40a7b4bb4b5e99c751e6.png?r=oct" width="250" align="right" alt="Aldin Kiselica's Dev Card"/></a>
 
 
 I share a passion for sports & adrenaline in general - martial arts in particular. My industry background is in tech where I have years of Software Engineering and Developer Advocacy experience on a top level, with an interim role as an acting Tech PM on an internal infrastructural platform before moving to Developer Relations.
