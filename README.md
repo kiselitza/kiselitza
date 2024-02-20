@@ -4,6 +4,7 @@ My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 - 🥑 Founder @ [developuls](https://www.linkedin.com/company/developuls)
 - 🃏 Jack of all trades, master of some
 - 💻 A passionate product-focused techie
+- 🎤 Organizing tech events since 2013
 - 🥋 1st DAN Karate Master, WKF National and Balkans 🏆, European and World Cup 🥉, alumni of [KK Champion](https://kkchampion.ba/) 🥊
 - ⛰ Mountain Service Rescuer @ [GSS Ilidža](https://gss.ba/)
 - 🎯 Ex Software Engineer, Tech PM & DevRel @ [Infobip](https://infobip.com/)
