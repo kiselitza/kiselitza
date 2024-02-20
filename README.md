@@ -1,7 +1,7 @@
 ### Hello stranger 👋
 
 My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
-- 😈 Founder @ [developuls](https://www.linkedin.com/company/developuls)
+- 🥑 Founder @ [developuls](https://www.linkedin.com/company/developuls)
 - 🃏 Jack of all trades, master of some
 - 💻 A passionate product-focused techie
 - 🥋 1st DAN Karate Master, WKF National and Balkans 🏆, European and World Cup 🥉, alumni of [KK Champion](https://kkchampion.ba/) 🥊
