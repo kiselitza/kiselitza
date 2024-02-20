@@ -21,5 +21,5 @@ During my IT career I was priviledged to have a chance and play with various pro
 In case you'd like to get to know more about myself check below:
 - 📫 Wanna reach out? Try via [LinkedIn](https://www.linkedin.com/in/kiselica-aldin/).
 - 🎤 To watch my worst public talk so far, jump on [this](https://www.youtube.com/watch?v=fchgo2z5vnc) video.
-- ✍️ To read some of my blog posts, check [here](https://medium.com/@kiselica.aldin).
+- ✍️ To follow my writing, check [dev.to](https://dev.to/kiselitza).
 - 🎮 If you're into FIFA or similar mainstream games, we might hit it of just fine.
