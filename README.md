@@ -19,9 +19,6 @@ My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 
 I have years of Software Engineering and Developer Advocacy experience on a top level, with an interim role as an acting Tech PM on an internal infrastructural platform before moving to Developer Relations.
 
-During my IT career I was priviledged to have a chance and play with various programming languages, frameworks and tech stacks in general, as well as with various tooling. In a sense, I see all of it simply as a toolset, nothing less and nothing more - a bounded set of steps/commands/methods/apps/tools you utilize to solve a certain challenge. But enough of philosophical overviews for now.
-
-
 In case you'd like to get to know more about myself check below:
 - 📫 Wanna reach out? Try via [LinkedIn](https://www.linkedin.com/in/kiselitza/).
 - ✍️ To read my stuff, check [dev.to](https://dev.to/kiselitza).
