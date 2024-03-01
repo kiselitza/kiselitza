@@ -1,5 +1,8 @@
 ### Hello stranger 👋
 
+You need help with setting up your developer journey strategy?
+You're in the right place!
+
 My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 - 🥑 Founder @ [developuls](https://www.linkedin.com/company/developuls)
 - 🃏 Jack of all trades, master of some
@@ -14,13 +17,12 @@ My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 <a href="https://app.daily.dev/kiselitza"><img src="https://api.daily.dev/devcards/efbe905728aa40a7b4bb4b5e99c751e6.png?r=oct" width="250" align="right" alt="Aldin Kiselica's Dev Card"/></a>
 
 
-I share a passion for sports & adrenaline in general - martial arts in particular. My industry background is in tech where I have years of Software Engineering and Developer Advocacy experience on a top level, with an interim role as an acting Tech PM on an internal infrastructural platform before moving to Developer Relations.
+I have years of Software Engineering and Developer Advocacy experience on a top level, with an interim role as an acting Tech PM on an internal infrastructural platform before moving to Developer Relations.
 
 During my IT career I was priviledged to have a chance and play with various programming languages, frameworks and tech stacks in general, as well as with various tooling. In a sense, I see all of it simply as a toolset, nothing less and nothing more - a bounded set of steps/commands/methods/apps/tools you utilize to solve a certain challenge. But enough of philosophical overviews for now.
 
 
 In case you'd like to get to know more about myself check below:
-- 📫 Wanna reach out? Try via [LinkedIn](https://www.linkedin.com/in/kiselica-aldin/).
+- 📫 Wanna reach out? Try via [LinkedIn](https://www.linkedin.com/in/kiselitza/).
+- ✍️ To read my stuff, check [dev.to](https://dev.to/kiselitza).
 - 🎤 To watch my worst public talk so far, jump on [this](https://www.youtube.com/watch?v=fchgo2z5vnc) video.
-- ✍️ To follow my writing, check [dev.to](https://dev.to/kiselitza).
-- 🎮 If you're into FIFA or similar mainstream games, we might hit it of just fine.
