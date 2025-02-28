@@ -1,12 +1,14 @@
 ### Hello stranger 👋
 
-You need help with setting up your developer journey strategy?
+You need some help with setting up your devrel strategy?
 You're in the right place!
 
 My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
-- 🥑 Founder @ [developuls](https://www.linkedin.com/company/developuls)
+- 🥑 Freelance Head of DevRel via [developuls](https://www.linkedin.com/company/developuls)
+- 👷🏻 Author of [progzee](https://pypi.org/project/progzee)
 - 🃏 Jack of all trades, master of some
 - 💻 A passionate product-focused techie
+- 👴🏻 Over a decade of Software Engineering and Developer Relations experience.
 - 🎤 Organizing tech events since 2013
 - 🥋 1st DAN Karate Master, WKF National and Balkans 🏆, European and World Cup 🥉, alumni of [KK Champion](https://kkchampion.ba/) 🥊
 - ⛰ Mountain Service Rescuer @ [GSS Ilidža](https://gss.ba/)
@@ -15,8 +17,6 @@ My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 - 🎖️ Oracle Certified Associate, [Java SE](https://www.credly.com/badges/ca8754df-0e82-41f9-be36-3dfad6d3c26b)
 
 <a href="https://app.daily.dev/kiselitza"><img src="https://api.daily.dev/devcards/v2/wmyiR105exUAMUi0AIxh6.png?type=default&r=gz2" width="250" align="right" alt="Aldin Kiselica's Dev Card"/></a>
-
-I have years of Software Engineering and Developer Advocacy experience on a top level, with an interim role as an acting Tech PM on an internal infrastructural platform before moving to Developer Relations.
 
 In case you'd like to get to know more about myself check below:
 - 📫 Wanna reach out? Try via [LinkedIn](https://www.linkedin.com/in/kiselitza/).
