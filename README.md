@@ -3,7 +3,7 @@
 You need some help with setting up your devrel strategy?
 You're in the right place!
 
-My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
+I'm a:
 - 🥑 Freelance Head of DevRel via [developuls](https://www.linkedin.com/company/developuls)
 - 👷🏻 Author of [progzee](https://pypi.org/project/progzee)
 - 🃏 Jack of all trades, master of some
@@ -18,7 +18,6 @@ My name is **Aldin Kiselica**, or simply as friends call me - **Kisa**.
 
 <a href="https://app.daily.dev/kiselitza"><img src="https://api.daily.dev/devcards/v2/wmyiR105exUAMUi0AIxh6.png?type=default&r=gz2" width="250" align="right" alt="Aldin Kiselica's Dev Card"/></a>
 
-In case you'd like to get to know more about myself check below:
+In case you'd like to get to know more about me check below:
 - 📫 Wanna reach out? Try via [LinkedIn](https://www.linkedin.com/in/kiselitza/).
 - ✍️ To read my stuff, check [dev.to](https://dev.to/kiselitza).
-- 🎤 To watch my worst public talk so far, jump on [this](https://www.youtube.com/watch?v=fchgo2z5vnc) video.
