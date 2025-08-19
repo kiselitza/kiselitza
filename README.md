@@ -7,6 +7,7 @@ I'm a:
 - 🥑 Freelance Head of DevRel via [developuls](https://www.linkedin.com/company/developuls)
 - 👷🏻 Author of [progzee](https://pypi.org/project/progzee)
 - 🃏 Jack of all trades, master of some
+- 🌀 Organized mess navigator
 - 💻 A passionate product-focused techie
 - 👴🏻 Over a decade of Software Engineering and Developer Relations experience.
 - 🎤 Organizing tech events since 2013
