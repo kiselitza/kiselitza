@@ -20,4 +20,4 @@ I'm a:
 
 In case you'd like to get to know more about me check below:
 - 📫 Wanna reach out? Try via [LinkedIn](https://www.linkedin.com/in/kiselitza/).
-- ✍️ To read my stuff, check [dev.to](https://dev.to/kiselitza).
+- ✍️ To read my stuff, check [daily.dev](https://app.daily.dev/kiselitza) or [dev.to](https://dev.to/kiselitza).
