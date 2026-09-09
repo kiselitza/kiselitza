@@ -4,9 +4,9 @@ I find and remove the friction between developers and devtools.
 DevRel, growth & GTM for identity, security, API, and AI-infrastructure startups.
 
 I'm a:
-- 🥑 Fractional Head of DevRel
-- 💻 A passionate product-focused techie
-- 👴🏻 Over a decade of Software Engineering and Developer Relations experience.
+- 🥑 Fractional Head of DevRel via Developuls
+- 💼 Product Manager via Lemon.io 🍋
+- 👴🏻 Over a decade of Software Engineering, Product, and Developer Relations experience.
 - 🎤 Organizing tech events since 2013
 - 🥋 1st DAN Karate Master, WKF National and Balkans 🏆, European and World Cup 🥉, alumni of [KK Champion](https://kkchampion.ba/) 🥊
 - 👷🏻 Author of [progzee](https://pypi.org/project/progzee)
